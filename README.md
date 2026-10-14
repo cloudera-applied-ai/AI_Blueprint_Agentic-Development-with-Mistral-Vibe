@@ -8,6 +8,10 @@
 
 > Run [Mistral Vibe](https://github.com/mistralai/mistral-vibe) in **Cloudera AI Workbench** against a model on [Cloudera AI Inference (CAII)](https://docs.cloudera.com/machine-learning/cloud/ai-inference/topics/ml-caii-use-caii.html). Vibe uses CAII’s **OpenAI-compatible** API directly — agentic development on models you operate inside Cloudera, without Mistral’s public API.
 
+<p align="center">
+  <img src="assets/cover-art.gif" alt="Agentic Development with Mistral Vibe — cover art" width="480" />
+</p>
+
 ## Table of Contents
 
 - [Overview](#overview)
