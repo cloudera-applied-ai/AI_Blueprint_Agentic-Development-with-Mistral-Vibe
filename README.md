@@ -1,9 +1,9 @@
 # Cloudera Blueprint: Agentic Development with Mistral Vibe
 
+[![Author-Kevin Talbert](https://img.shields.io/badge/Author-Kevin%20Talbert-555555)](https://github.com/kevinbtalbert)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](Dockerfile)
 [![Cloudera Blueprint](https://img.shields.io/badge/Cloudera-Blueprint-f96702.svg)](METADATA.yaml)
-[![Author-Kevin Talbert](https://img.shields.io/badge/Author-Kevin%20Talbert-555555)]()
 [![Stars](https://img.shields.io/github/stars/cloudera-applied-ai/AI_Blueprint_Agentic-Development-with-Mistral-Vibe?logo=github&cacheSeconds=300)](https://github.com/cloudera-applied-ai/AI_Blueprint_Agentic-Development-with-Mistral-Vibe/stargazers)
 [![Forks](https://img.shields.io/github/forks/cloudera-applied-ai/AI_Blueprint_Agentic-Development-with-Mistral-Vibe?logo=github&cacheSeconds=300)](https://github.com/cloudera-applied-ai/AI_Blueprint_Agentic-Development-with-Mistral-Vibe/network/members)
 
@@ -40,7 +40,6 @@ This blueprint connects **Mistral Vibe**—Mistral’s terminal coding agent—t
 Check out this Reprise demo which walks through the usage of Vibe on CAI Workbench, once the model has been deployed by CAI Inference service:  [https://app.getreprise.com/launch/z6egvkX/](https://app.getreprise.com/launch/z6egvkX/)
 
 - Screenshots in [`assets/`](assets/) (endpoint, project env vars, runtime, Vibe CLI).
-
 
 ## Use Case
 
